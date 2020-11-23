@@ -1,2 +1,2 @@
 # Genealogist
-Software zur Unterstützung bei der Ahnenforschung, Erstellung von Stammbäumen
+Software to assist with genealogical research, creation of family trees
