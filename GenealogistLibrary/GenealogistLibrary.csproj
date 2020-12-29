@@ -42,12 +42,13 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="Models\Person.cs" />
+        <Compile Include="Application\Models\Person.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>
-      <Folder Include="Interfaces" />
-      <Folder Include="Repositorys" />
+      <Folder Include="Application\Interfaces" />
+      <Folder Include="Application\Repositorys" />
+      <Folder Include="Common" />
     </ItemGroup>
     <ItemGroup>
       <None Include="packages.config" />
